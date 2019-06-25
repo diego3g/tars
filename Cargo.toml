@@ -1,0 +1,8 @@
+[package]
+name = "rustblog"
+version = "0.1.0"
+authors = ["Diego Fernandes <diego.schell.f@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rocket = "0.4.1"
